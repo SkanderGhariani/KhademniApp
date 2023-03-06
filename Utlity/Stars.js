@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-
+/*ear*/
 const Rating = ({ numberOfStars }) => {
   const stars = [];
   for (let i = 1; i <= 5; i++) {
